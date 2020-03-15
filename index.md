@@ -8,3 +8,4 @@ name: vfmr
 
 I am {{ page.name }}.
 
+#This is merely a test.
