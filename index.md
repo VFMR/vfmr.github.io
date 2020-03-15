@@ -3,7 +3,9 @@ title: Home
 myname: vfmr
 ---
 
-<h1>Hello World!</h1>
+# Hello !
+
+## VFMR's page
 
 I am {{ page.myname }}. This is my page.
 
