@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Home
-name: vfmr
+myname: vfmr
 ---
 
 <h1>Hello World!</h1>
 
-I am {{ page.name }}.
+I am {{ page.myname }}.
 
