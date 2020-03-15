@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Home
+name: vfmr
 ---
 
 <h1>Hello World!</h1>
 
-Today is {{ date }}
+I am {{ page.name }}.
+
